@@ -1,4 +1,4 @@
-# # Repositório do desafio de projeto sobre Git/GitHub da DIO :computer:
+# Repositório do desafio de projeto sobre Git/GitHub da DIO :computer:
 ### Desafio DIO - 1º Repositório
 
 ## Links Úteis
